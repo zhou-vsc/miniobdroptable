@@ -1,0 +1,37 @@
+[2026-04-27 01:03:27.488063 pid:261799 tid:72731a8e97c0 ctx:0 INFO: init@init.cpp:201] >> Output configuration 
+Begin dump configuration
+[]
+
+[LOG]
+LOG_CONSOLE_LEVEL=1
+LOG_FILE_LEVEL=5
+LOG_FILE_NAME=observer.log
+
+Finish dump configuration 
+
+[2026-04-27 01:03:27.491448 pid:261799 tid:72731a8e97c0 ctx:0 TRACE: set_current_db@session.cpp:56] >> change db to sys
+[2026-04-27 01:03:27.491501 pid:261799 tid:72731a8e97c0 ctx:0 INFO: init@default_handler.cpp:69] >> Default handler init with miniob success
+[2026-04-27 01:03:27.491531 pid:261799 tid:72731a8e97c0 ctx:0 INFO: init@init.cpp:216] >> Successfully init utility
+[2026-04-27 01:03:27.491561 pid:261799 tid:72731a8e97c0 ctx:0 INFO: init_server@main.cpp:110] >> Use port config in command line: 6789
+[2026-04-27 01:03:27.491690 pid:261799 tid:72731a8e97c0 ctx:0 INFO: start_tcp_server@server.cpp:192] >> Listen on port 6789
+[2026-04-27 01:03:27.491717 pid:261799 tid:72731a8e97c0 ctx:0 INFO: start_tcp_server@server.cpp:195] >> Observer start success
+[2026-04-27 01:04:14.778570 pid:261799 tid:72731a8e97c0 ctx:0 INFO: accept@server.cpp:127] >> Accepted connection from 127.0.0.1:6311
+
+[2026-04-27 01:04:14.779239 pid:261799 tid:727316bff6c0 ctx:0 INFO: operator()@one_thread_per_connection_thread_handler.cpp:70] >> worker thread start. communicator = 0x50b000000670
+[2026-04-27 01:04:14.783862 pid:261799 tid:727316bff6c0 ctx:0 INFO: read_event@plain_communicator.cpp:89] >> receive command(size=47): CREATE TABLE test_drop(id int, name char(10));
+[2026-04-27 01:04:14.784258 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:89] >> CREATE
+[2026-04-27 01:04:14.784318 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:91] >> TABLE
+[2026-04-27 01:04:14.784426 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:129] >> ID
+[2026-04-27 01:04:14.784455 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:130] >> LBRACE
+[2026-04-27 01:04:14.784485 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:129] >> ID
+[2026-04-27 01:04:14.784521 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:111] >> INT_T
+[2026-04-27 01:04:14.784536 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:133] >> COMMA
+[2026-04-27 01:04:14.784603 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:129] >> ID
+[2026-04-27 01:04:14.784631 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:112] >> STRING_T
+[2026-04-27 01:04:14.784684 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:130] >> LBRACE
+[2026-04-27 01:04:14.784701 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:81] >> NUMBER
+[2026-04-27 01:04:14.784711 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:131] >> RBRACE
+[2026-04-27 01:04:14.784779 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:131] >> RBRACE
+[2026-04-27 01:04:14.784807 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: yylex@lex_sql.l:84] >> SEMICOLON
+[2026-04-27 01:04:14.785099 pid:261799 tid:727316bff6c0 ctx:504000000050 DEBUG: sql_debug@sql_debug.cpp:51] >> sql debug info: [create table statement: table name test_drop]
+[2026-04-27 01:04:14.785244 pid:261799 tid:727316bff6c0 ctx:504000000050 INFO: create@table.cpp:58] >> Begin to create table miniob/db/sys:test_drop

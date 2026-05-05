@@ -1,69 +1,32 @@
-# Prerequisites
-*.d
-
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-*.so.*
-
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# Build directories
-build/
-Build/
-build-*/
-
-# CMake generated files
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-install_manifest.txt
+deps/3rd/*
+.vscode
+!.vscode/tasks.json
+!.vscode/launch.json
+.VSCodeCounter/*
+docs/doxy/
+build/*
+build_*
+cmake-build-*/*
+build
+.cache/*
+.DS_Store
+.idea
+.ccls-cache
 compile_commands.json
+.name
+miniob.iml
+vcs.xml
+workspace.xml
+modules.xml
+GRTAGS
+GPATH
+GTAGS
+docs/book
+**/__pycache__
+#*#
 
-# Temporary files
-*.tmp
-*.log
-*.bak
-*.swp
-
-# vcpkg
-vcpkg_installed/
-
-# debug information files
-*.dwo
-
-# test output & cache
-Testing/
-.cache/
+# ignore generated files
+src/observer/sql/parser/lex_sql.cpp
+src/observer/sql/parser/lex_sql.h
+src/observer/sql/parser/yacc_sql.cpp
+src/observer/sql/parser/yacc_sql.hpp
