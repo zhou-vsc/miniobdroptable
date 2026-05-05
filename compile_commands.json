@@ -1,0 +1,1580 @@
+[
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/conf/ini.cpp.o -c /root/miniob/src/common/conf/ini.cpp",
+  "file": "/root/miniob/src/common/conf/ini.cpp",
+  "output": "src/common/CMakeFiles/common.dir/conf/ini.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/io/io.cpp.o -c /root/miniob/src/common/io/io.cpp",
+  "file": "/root/miniob/src/common/io/io.cpp",
+  "output": "src/common/CMakeFiles/common.dir/io/io.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/lang/bitmap.cpp.o -c /root/miniob/src/common/lang/bitmap.cpp",
+  "file": "/root/miniob/src/common/lang/bitmap.cpp",
+  "output": "src/common/CMakeFiles/common.dir/lang/bitmap.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/lang/comparator.cpp.o -c /root/miniob/src/common/lang/comparator.cpp",
+  "file": "/root/miniob/src/common/lang/comparator.cpp",
+  "output": "src/common/CMakeFiles/common.dir/lang/comparator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/lang/mutex.cpp.o -c /root/miniob/src/common/lang/mutex.cpp",
+  "file": "/root/miniob/src/common/lang/mutex.cpp",
+  "output": "src/common/CMakeFiles/common.dir/lang/mutex.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/lang/serializer.cpp.o -c /root/miniob/src/common/lang/serializer.cpp",
+  "file": "/root/miniob/src/common/lang/serializer.cpp",
+  "output": "src/common/CMakeFiles/common.dir/lang/serializer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/lang/string.cpp.o -c /root/miniob/src/common/lang/string.cpp",
+  "file": "/root/miniob/src/common/lang/string.cpp",
+  "output": "src/common/CMakeFiles/common.dir/lang/string.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/linereader/line_reader.cpp.o -c /root/miniob/src/common/linereader/line_reader.cpp",
+  "file": "/root/miniob/src/common/linereader/line_reader.cpp",
+  "output": "src/common/CMakeFiles/common.dir/linereader/line_reader.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/log/backtrace.cpp.o -c /root/miniob/src/common/log/backtrace.cpp",
+  "file": "/root/miniob/src/common/log/backtrace.cpp",
+  "output": "src/common/CMakeFiles/common.dir/log/backtrace.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/log/log.cpp.o -c /root/miniob/src/common/log/log.cpp",
+  "file": "/root/miniob/src/common/log/log.cpp",
+  "output": "src/common/CMakeFiles/common.dir/log/log.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/math/crc.cpp.o -c /root/miniob/src/common/math/crc.cpp",
+  "file": "/root/miniob/src/common/math/crc.cpp",
+  "output": "src/common/CMakeFiles/common.dir/math/crc.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/math/md5.cpp.o -c /root/miniob/src/common/math/md5.cpp",
+  "file": "/root/miniob/src/common/math/md5.cpp",
+  "output": "src/common/CMakeFiles/common.dir/math/md5.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/math/random_generator.cpp.o -c /root/miniob/src/common/math/random_generator.cpp",
+  "file": "/root/miniob/src/common/math/random_generator.cpp",
+  "output": "src/common/CMakeFiles/common.dir/math/random_generator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/math/regex.cpp.o -c /root/miniob/src/common/math/regex.cpp",
+  "file": "/root/miniob/src/common/math/regex.cpp",
+  "output": "src/common/CMakeFiles/common.dir/math/regex.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/math/simd_util.cpp.o -c /root/miniob/src/common/math/simd_util.cpp",
+  "file": "/root/miniob/src/common/math/simd_util.cpp",
+  "output": "src/common/CMakeFiles/common.dir/math/simd_util.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/mm/mem_pool.cpp.o -c /root/miniob/src/common/mm/mem_pool.cpp",
+  "file": "/root/miniob/src/common/mm/mem_pool.cpp",
+  "output": "src/common/CMakeFiles/common.dir/mm/mem_pool.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/os/os.cpp.o -c /root/miniob/src/common/os/os.cpp",
+  "file": "/root/miniob/src/common/os/os.cpp",
+  "output": "src/common/CMakeFiles/common.dir/os/os.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/os/path.cpp.o -c /root/miniob/src/common/os/path.cpp",
+  "file": "/root/miniob/src/common/os/path.cpp",
+  "output": "src/common/CMakeFiles/common.dir/os/path.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/os/pidfile.cpp.o -c /root/miniob/src/common/os/pidfile.cpp",
+  "file": "/root/miniob/src/common/os/pidfile.cpp",
+  "output": "src/common/CMakeFiles/common.dir/os/pidfile.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/os/process.cpp.o -c /root/miniob/src/common/os/process.cpp",
+  "file": "/root/miniob/src/common/os/process.cpp",
+  "output": "src/common/CMakeFiles/common.dir/os/process.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/os/process_param.cpp.o -c /root/miniob/src/common/os/process_param.cpp",
+  "file": "/root/miniob/src/common/os/process_param.cpp",
+  "output": "src/common/CMakeFiles/common.dir/os/process_param.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/os/signal.cpp.o -c /root/miniob/src/common/os/signal.cpp",
+  "file": "/root/miniob/src/common/os/signal.cpp",
+  "output": "src/common/CMakeFiles/common.dir/os/signal.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/sys/rc.cpp.o -c /root/miniob/src/common/sys/rc.cpp",
+  "file": "/root/miniob/src/common/sys/rc.cpp",
+  "output": "src/common/CMakeFiles/common.dir/sys/rc.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/thread/thread_pool_executor.cpp.o -c /root/miniob/src/common/thread/thread_pool_executor.cpp",
+  "file": "/root/miniob/src/common/thread/thread_pool_executor.cpp",
+  "output": "src/common/CMakeFiles/common.dir/thread/thread_pool_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/thread/thread_util.cpp.o -c /root/miniob/src/common/thread/thread_util.cpp",
+  "file": "/root/miniob/src/common/thread/thread_util.cpp",
+  "output": "src/common/CMakeFiles/common.dir/thread/thread_util.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/time/datetime.cpp.o -c /root/miniob/src/common/time/datetime.cpp",
+  "file": "/root/miniob/src/common/time/datetime.cpp",
+  "output": "src/common/CMakeFiles/common.dir/time/datetime.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/common  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/common.dir/time/timeout_info.cpp.o -c /root/miniob/src/common/time/timeout_info.cpp",
+  "file": "/root/miniob/src/common/time/timeout_info.cpp",
+  "output": "src/common/CMakeFiles/common.dir/time/timeout_info.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/catalog/catalog.cpp.o -c /root/miniob/src/observer/catalog/catalog.cpp",
+  "file": "/root/miniob/src/observer/catalog/catalog.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/catalog/catalog.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/global_context.cpp.o -c /root/miniob/src/observer/common/global_context.cpp",
+  "file": "/root/miniob/src/observer/common/global_context.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/global_context.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/init.cpp.o -c /root/miniob/src/observer/common/init.cpp",
+  "file": "/root/miniob/src/observer/common/init.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/init.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/type/attr_type.cpp.o -c /root/miniob/src/observer/common/type/attr_type.cpp",
+  "file": "/root/miniob/src/observer/common/type/attr_type.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/type/attr_type.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/type/char_type.cpp.o -c /root/miniob/src/observer/common/type/char_type.cpp",
+  "file": "/root/miniob/src/observer/common/type/char_type.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/type/char_type.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/type/data_type.cpp.o -c /root/miniob/src/observer/common/type/data_type.cpp",
+  "file": "/root/miniob/src/observer/common/type/data_type.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/type/data_type.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/type/float_type.cpp.o -c /root/miniob/src/observer/common/type/float_type.cpp",
+  "file": "/root/miniob/src/observer/common/type/float_type.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/type/float_type.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/type/integer_type.cpp.o -c /root/miniob/src/observer/common/type/integer_type.cpp",
+  "file": "/root/miniob/src/observer/common/type/integer_type.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/type/integer_type.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/common/value.cpp.o -c /root/miniob/src/observer/common/value.cpp",
+  "file": "/root/miniob/src/observer/common/value.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/common/value.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/event/session_event.cpp.o -c /root/miniob/src/observer/event/session_event.cpp",
+  "file": "/root/miniob/src/observer/event/session_event.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/event/session_event.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/event/sql_debug.cpp.o -c /root/miniob/src/observer/event/sql_debug.cpp",
+  "file": "/root/miniob/src/observer/event/sql_debug.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/event/sql_debug.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/event/sql_event.cpp.o -c /root/miniob/src/observer/event/sql_event.cpp",
+  "file": "/root/miniob/src/observer/event/sql_event.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/event/sql_event.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/buffered_writer.cpp.o -c /root/miniob/src/observer/net/buffered_writer.cpp",
+  "file": "/root/miniob/src/observer/net/buffered_writer.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/buffered_writer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/cli_communicator.cpp.o -c /root/miniob/src/observer/net/cli_communicator.cpp",
+  "file": "/root/miniob/src/observer/net/cli_communicator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/cli_communicator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/communicator.cpp.o -c /root/miniob/src/observer/net/communicator.cpp",
+  "file": "/root/miniob/src/observer/net/communicator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/communicator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/java_thread_pool_thread_handler.cpp.o -c /root/miniob/src/observer/net/java_thread_pool_thread_handler.cpp",
+  "file": "/root/miniob/src/observer/net/java_thread_pool_thread_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/java_thread_pool_thread_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/mysql_communicator.cpp.o -c /root/miniob/src/observer/net/mysql_communicator.cpp",
+  "file": "/root/miniob/src/observer/net/mysql_communicator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/mysql_communicator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/one_thread_per_connection_thread_handler.cpp.o -c /root/miniob/src/observer/net/one_thread_per_connection_thread_handler.cpp",
+  "file": "/root/miniob/src/observer/net/one_thread_per_connection_thread_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/one_thread_per_connection_thread_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/plain_communicator.cpp.o -c /root/miniob/src/observer/net/plain_communicator.cpp",
+  "file": "/root/miniob/src/observer/net/plain_communicator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/plain_communicator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/ring_buffer.cpp.o -c /root/miniob/src/observer/net/ring_buffer.cpp",
+  "file": "/root/miniob/src/observer/net/ring_buffer.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/ring_buffer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/server.cpp.o -c /root/miniob/src/observer/net/server.cpp",
+  "file": "/root/miniob/src/observer/net/server.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/server.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/sql_task_handler.cpp.o -c /root/miniob/src/observer/net/sql_task_handler.cpp",
+  "file": "/root/miniob/src/observer/net/sql_task_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/sql_task_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/net/thread_handler.cpp.o -c /root/miniob/src/observer/net/thread_handler.cpp",
+  "file": "/root/miniob/src/observer/net/thread_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/net/thread_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/session/session.cpp.o -c /root/miniob/src/observer/session/session.cpp",
+  "file": "/root/miniob/src/observer/session/session.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/session/session.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/session/session_stage.cpp.o -c /root/miniob/src/observer/session/session_stage.cpp",
+  "file": "/root/miniob/src/observer/session/session_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/session/session_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/session/thread_data.cpp.o -c /root/miniob/src/observer/session/thread_data.cpp",
+  "file": "/root/miniob/src/observer/session/thread_data.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/session/thread_data.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/analyze_table_executor.cpp.o -c /root/miniob/src/observer/sql/executor/analyze_table_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/analyze_table_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/analyze_table_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/command_executor.cpp.o -c /root/miniob/src/observer/sql/executor/command_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/command_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/command_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/create_index_executor.cpp.o -c /root/miniob/src/observer/sql/executor/create_index_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/create_index_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/create_index_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/create_table_executor.cpp.o -c /root/miniob/src/observer/sql/executor/create_table_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/create_table_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/create_table_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/desc_table_executor.cpp.o -c /root/miniob/src/observer/sql/executor/desc_table_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/desc_table_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/desc_table_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/drop_table_executor.cpp.o -c /root/miniob/src/observer/sql/executor/drop_table_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/drop_table_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/drop_table_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/execute_stage.cpp.o -c /root/miniob/src/observer/sql/executor/execute_stage.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/execute_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/execute_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/load_data_executor.cpp.o -c /root/miniob/src/observer/sql/executor/load_data_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/load_data_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/load_data_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/set_variable_executor.cpp.o -c /root/miniob/src/observer/sql/executor/set_variable_executor.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/set_variable_executor.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/set_variable_executor.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/executor/sql_result.cpp.o -c /root/miniob/src/observer/sql/executor/sql_result.cpp",
+  "file": "/root/miniob/src/observer/sql/executor/sql_result.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/executor/sql_result.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/aggregate_hash_table.cpp.o -c /root/miniob/src/observer/sql/expr/aggregate_hash_table.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/aggregate_hash_table.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/aggregate_hash_table.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/aggregate_state.cpp.o -c /root/miniob/src/observer/sql/expr/aggregate_state.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/aggregate_state.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/aggregate_state.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/aggregator.cpp.o -c /root/miniob/src/observer/sql/expr/aggregator.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/aggregator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/aggregator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/composite_tuple.cpp.o -c /root/miniob/src/observer/sql/expr/composite_tuple.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/composite_tuple.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/composite_tuple.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/expression.cpp.o -c /root/miniob/src/observer/sql/expr/expression.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/expression.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/expression.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/expression_iterator.cpp.o -c /root/miniob/src/observer/sql/expr/expression_iterator.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/expression_iterator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/expression_iterator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/expr/tuple_cell.cpp.o -c /root/miniob/src/observer/sql/expr/tuple_cell.cpp",
+  "file": "/root/miniob/src/observer/sql/expr/tuple_cell.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/expr/tuple_cell.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/aggregate_vec_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/aggregate_vec_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/aggregate_vec_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/aggregate_vec_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/delete_logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/delete_logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/delete_logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/delete_logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/delete_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/delete_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/delete_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/delete_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/explain_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/explain_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/explain_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/explain_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/expr_vec_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/expr_vec_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/expr_vec_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/expr_vec_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/group_by_logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/group_by_logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/group_by_logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/group_by_logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/group_by_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/group_by_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/group_by_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/group_by_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/group_by_vec_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/group_by_vec_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/group_by_vec_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/group_by_vec_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/hash_group_by_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/hash_group_by_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/hash_group_by_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/hash_group_by_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/hash_join_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/hash_join_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/hash_join_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/hash_join_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/index_scan_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/index_scan_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/index_scan_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/index_scan_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/insert_logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/insert_logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/insert_logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/insert_logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/insert_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/insert_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/insert_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/insert_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/join_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/join_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/join_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/join_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/nested_loop_join_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/nested_loop_join_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/nested_loop_join_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/nested_loop_join_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/predicate_logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/predicate_logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/predicate_logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/predicate_logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/predicate_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/predicate_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/predicate_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/predicate_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/project_logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/project_logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/project_logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/project_logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/project_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/project_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/project_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/project_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/project_vec_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/project_vec_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/project_vec_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/project_vec_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/scalar_group_by_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/scalar_group_by_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/scalar_group_by_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/scalar_group_by_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/table_get_logical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/table_get_logical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/table_get_logical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/table_get_logical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/table_scan_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/table_scan_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/table_scan_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/table_scan_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/operator/table_scan_vec_physical_operator.cpp.o -c /root/miniob/src/observer/sql/operator/table_scan_vec_physical_operator.cpp",
+  "file": "/root/miniob/src/observer/sql/operator/table_scan_vec_physical_operator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/operator/table_scan_vec_physical_operator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/cost_model.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/cost_model.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/cost_model.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/cost_model.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/group.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/group.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/group.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/group.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/group_expr.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/group_expr.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/group_expr.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/group_expr.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/implementation_rules.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/implementation_rules.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/implementation_rules.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/implementation_rules.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/memo.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/memo.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/memo.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/memo.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/optimizer.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/optimizer.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/optimizer.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/optimizer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/optimizer_context.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/optimizer_context.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/optimizer_context.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/optimizer_context.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/rules.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/rules.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/rules.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/rules.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/apply_rule_task.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/tasks/apply_rule_task.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/tasks/apply_rule_task.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/apply_rule_task.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/cascade_task.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/tasks/cascade_task.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/tasks/cascade_task.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/cascade_task.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/e_group_task.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/tasks/e_group_task.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/tasks/e_group_task.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/e_group_task.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/o_expr_task.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/tasks/o_expr_task.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/tasks/o_expr_task.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/o_expr_task.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/o_group_task.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/tasks/o_group_task.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/tasks/o_group_task.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/o_group_task.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/o_input_task.cpp.o -c /root/miniob/src/observer/sql/optimizer/cascade/tasks/o_input_task.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/cascade/tasks/o_input_task.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/cascade/tasks/o_input_task.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/comparison_simplification_rule.cpp.o -c /root/miniob/src/observer/sql/optimizer/comparison_simplification_rule.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/comparison_simplification_rule.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/comparison_simplification_rule.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/conjunction_simplification_rule.cpp.o -c /root/miniob/src/observer/sql/optimizer/conjunction_simplification_rule.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/conjunction_simplification_rule.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/conjunction_simplification_rule.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/expression_rewriter.cpp.o -c /root/miniob/src/observer/sql/optimizer/expression_rewriter.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/expression_rewriter.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/expression_rewriter.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/logical_plan_generator.cpp.o -c /root/miniob/src/observer/sql/optimizer/logical_plan_generator.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/logical_plan_generator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/logical_plan_generator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/optimize_stage.cpp.o -c /root/miniob/src/observer/sql/optimizer/optimize_stage.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/optimize_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/optimize_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/optimizer_utils.cpp.o -c /root/miniob/src/observer/sql/optimizer/optimizer_utils.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/optimizer_utils.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/optimizer_utils.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/physical_plan_generator.cpp.o -c /root/miniob/src/observer/sql/optimizer/physical_plan_generator.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/physical_plan_generator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/physical_plan_generator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/predicate_pushdown_rewriter.cpp.o -c /root/miniob/src/observer/sql/optimizer/predicate_pushdown_rewriter.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/predicate_pushdown_rewriter.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/predicate_pushdown_rewriter.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/predicate_rewrite.cpp.o -c /root/miniob/src/observer/sql/optimizer/predicate_rewrite.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/predicate_rewrite.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/predicate_rewrite.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/predicate_to_join_rule.cpp.o -c /root/miniob/src/observer/sql/optimizer/predicate_to_join_rule.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/predicate_to_join_rule.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/predicate_to_join_rule.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/optimizer/rewriter.cpp.o -c /root/miniob/src/observer/sql/optimizer/rewriter.cpp",
+  "file": "/root/miniob/src/observer/sql/optimizer/rewriter.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/optimizer/rewriter.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/parser/expression_binder.cpp.o -c /root/miniob/src/observer/sql/parser/expression_binder.cpp",
+  "file": "/root/miniob/src/observer/sql/parser/expression_binder.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/parser/expression_binder.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/parser/lex_sql.cpp.o -c /root/miniob/src/observer/sql/parser/lex_sql.cpp",
+  "file": "/root/miniob/src/observer/sql/parser/lex_sql.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/parser/lex_sql.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/parser/parse.cpp.o -c /root/miniob/src/observer/sql/parser/parse.cpp",
+  "file": "/root/miniob/src/observer/sql/parser/parse.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/parser/parse.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/parser/parse_stage.cpp.o -c /root/miniob/src/observer/sql/parser/parse_stage.cpp",
+  "file": "/root/miniob/src/observer/sql/parser/parse_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/parser/parse_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/parser/resolve_stage.cpp.o -c /root/miniob/src/observer/sql/parser/resolve_stage.cpp",
+  "file": "/root/miniob/src/observer/sql/parser/resolve_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/parser/resolve_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/parser/yacc_sql.cpp.o -c /root/miniob/src/observer/sql/parser/yacc_sql.cpp",
+  "file": "/root/miniob/src/observer/sql/parser/yacc_sql.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/parser/yacc_sql.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/plan_cache/plan_cache_stage.cpp.o -c /root/miniob/src/observer/sql/plan_cache/plan_cache_stage.cpp",
+  "file": "/root/miniob/src/observer/sql/plan_cache/plan_cache_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/plan_cache/plan_cache_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/query_cache/query_cache_stage.cpp.o -c /root/miniob/src/observer/sql/query_cache/query_cache_stage.cpp",
+  "file": "/root/miniob/src/observer/sql/query_cache/query_cache_stage.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/query_cache/query_cache_stage.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/analyze_table_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/analyze_table_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/analyze_table_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/analyze_table_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/create_index_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/create_index_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/create_index_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/create_index_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/create_table_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/create_table_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/create_table_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/create_table_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/delete_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/delete_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/delete_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/delete_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/desc_table_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/desc_table_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/desc_table_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/desc_table_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/explain_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/explain_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/explain_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/explain_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/filter_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/filter_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/filter_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/filter_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/insert_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/insert_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/insert_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/insert_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/load_data_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/load_data_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/load_data_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/load_data_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/select_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/select_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/select_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/select_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/sql/stmt/update_stmt.cpp.o -c /root/miniob/src/observer/sql/stmt/update_stmt.cpp",
+  "file": "/root/miniob/src/observer/sql/stmt/update_stmt.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/sql/stmt/update_stmt.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/buffer/buffer_pool_log.cpp.o -c /root/miniob/src/observer/storage/buffer/buffer_pool_log.cpp",
+  "file": "/root/miniob/src/observer/storage/buffer/buffer_pool_log.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/buffer/buffer_pool_log.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/buffer/disk_buffer_pool.cpp.o -c /root/miniob/src/observer/storage/buffer/disk_buffer_pool.cpp",
+  "file": "/root/miniob/src/observer/storage/buffer/disk_buffer_pool.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/buffer/disk_buffer_pool.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/buffer/double_write_buffer.cpp.o -c /root/miniob/src/observer/storage/buffer/double_write_buffer.cpp",
+  "file": "/root/miniob/src/observer/storage/buffer/double_write_buffer.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/buffer/double_write_buffer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/buffer/frame.cpp.o -c /root/miniob/src/observer/storage/buffer/frame.cpp",
+  "file": "/root/miniob/src/observer/storage/buffer/frame.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/buffer/frame.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/clog/disk_log_handler.cpp.o -c /root/miniob/src/observer/storage/clog/disk_log_handler.cpp",
+  "file": "/root/miniob/src/observer/storage/clog/disk_log_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/clog/disk_log_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/clog/integrated_log_replayer.cpp.o -c /root/miniob/src/observer/storage/clog/integrated_log_replayer.cpp",
+  "file": "/root/miniob/src/observer/storage/clog/integrated_log_replayer.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/clog/integrated_log_replayer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/clog/log_buffer.cpp.o -c /root/miniob/src/observer/storage/clog/log_buffer.cpp",
+  "file": "/root/miniob/src/observer/storage/clog/log_buffer.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/clog/log_buffer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/clog/log_entry.cpp.o -c /root/miniob/src/observer/storage/clog/log_entry.cpp",
+  "file": "/root/miniob/src/observer/storage/clog/log_entry.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/clog/log_entry.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/clog/log_file.cpp.o -c /root/miniob/src/observer/storage/clog/log_file.cpp",
+  "file": "/root/miniob/src/observer/storage/clog/log_file.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/clog/log_file.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/clog/log_handler.cpp.o -c /root/miniob/src/observer/storage/clog/log_handler.cpp",
+  "file": "/root/miniob/src/observer/storage/clog/log_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/clog/log_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/common/arena_allocator.cpp.o -c /root/miniob/src/observer/storage/common/arena_allocator.cpp",
+  "file": "/root/miniob/src/observer/storage/common/arena_allocator.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/common/arena_allocator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/common/chunk.cpp.o -c /root/miniob/src/observer/storage/common/chunk.cpp",
+  "file": "/root/miniob/src/observer/storage/common/chunk.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/common/chunk.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/common/codec.cpp.o -c /root/miniob/src/observer/storage/common/codec.cpp",
+  "file": "/root/miniob/src/observer/storage/common/codec.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/common/codec.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/common/column.cpp.o -c /root/miniob/src/observer/storage/common/column.cpp",
+  "file": "/root/miniob/src/observer/storage/common/column.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/common/column.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/common/condition_filter.cpp.o -c /root/miniob/src/observer/storage/common/condition_filter.cpp",
+  "file": "/root/miniob/src/observer/storage/common/condition_filter.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/common/condition_filter.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/common/meta_util.cpp.o -c /root/miniob/src/observer/storage/common/meta_util.cpp",
+  "file": "/root/miniob/src/observer/storage/common/meta_util.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/common/meta_util.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/db/db.cpp.o -c /root/miniob/src/observer/storage/db/db.cpp",
+  "file": "/root/miniob/src/observer/storage/db/db.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/db/db.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/default/default_handler.cpp.o -c /root/miniob/src/observer/storage/default/default_handler.cpp",
+  "file": "/root/miniob/src/observer/storage/default/default_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/default/default_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/field/field.cpp.o -c /root/miniob/src/observer/storage/field/field.cpp",
+  "file": "/root/miniob/src/observer/storage/field/field.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/field/field.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/field/field_meta.cpp.o -c /root/miniob/src/observer/storage/field/field_meta.cpp",
+  "file": "/root/miniob/src/observer/storage/field/field_meta.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/field/field_meta.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/bplus_tree.cpp.o -c /root/miniob/src/observer/storage/index/bplus_tree.cpp",
+  "file": "/root/miniob/src/observer/storage/index/bplus_tree.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/bplus_tree.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/bplus_tree_index.cpp.o -c /root/miniob/src/observer/storage/index/bplus_tree_index.cpp",
+  "file": "/root/miniob/src/observer/storage/index/bplus_tree_index.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/bplus_tree_index.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/bplus_tree_log.cpp.o -c /root/miniob/src/observer/storage/index/bplus_tree_log.cpp",
+  "file": "/root/miniob/src/observer/storage/index/bplus_tree_log.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/bplus_tree_log.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/bplus_tree_log_entry.cpp.o -c /root/miniob/src/observer/storage/index/bplus_tree_log_entry.cpp",
+  "file": "/root/miniob/src/observer/storage/index/bplus_tree_log_entry.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/bplus_tree_log_entry.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/index.cpp.o -c /root/miniob/src/observer/storage/index/index.cpp",
+  "file": "/root/miniob/src/observer/storage/index/index.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/index.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/index_meta.cpp.o -c /root/miniob/src/observer/storage/index/index_meta.cpp",
+  "file": "/root/miniob/src/observer/storage/index/index_meta.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/index_meta.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/index/latch_memo.cpp.o -c /root/miniob/src/observer/storage/index/latch_memo.cpp",
+  "file": "/root/miniob/src/observer/storage/index/latch_memo.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/index/latch_memo.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/persist/persist.cpp.o -c /root/miniob/src/observer/storage/persist/persist.cpp",
+  "file": "/root/miniob/src/observer/storage/persist/persist.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/persist/persist.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/record/heap_record_scanner.cpp.o -c /root/miniob/src/observer/storage/record/heap_record_scanner.cpp",
+  "file": "/root/miniob/src/observer/storage/record/heap_record_scanner.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/record/heap_record_scanner.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/record/lob_handler.cpp.o -c /root/miniob/src/observer/storage/record/lob_handler.cpp",
+  "file": "/root/miniob/src/observer/storage/record/lob_handler.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/record/lob_handler.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/record/lsm_record_scanner.cpp.o -c /root/miniob/src/observer/storage/record/lsm_record_scanner.cpp",
+  "file": "/root/miniob/src/observer/storage/record/lsm_record_scanner.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/record/lsm_record_scanner.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/record/record_log.cpp.o -c /root/miniob/src/observer/storage/record/record_log.cpp",
+  "file": "/root/miniob/src/observer/storage/record/record_log.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/record/record_log.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/record/record_manager.cpp.o -c /root/miniob/src/observer/storage/record/record_manager.cpp",
+  "file": "/root/miniob/src/observer/storage/record/record_manager.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/record/record_manager.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/record/record_scanner.cpp.o -c /root/miniob/src/observer/storage/record/record_scanner.cpp",
+  "file": "/root/miniob/src/observer/storage/record/record_scanner.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/record/record_scanner.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/table/heap_table_engine.cpp.o -c /root/miniob/src/observer/storage/table/heap_table_engine.cpp",
+  "file": "/root/miniob/src/observer/storage/table/heap_table_engine.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/table/heap_table_engine.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/table/lsm_table_engine.cpp.o -c /root/miniob/src/observer/storage/table/lsm_table_engine.cpp",
+  "file": "/root/miniob/src/observer/storage/table/lsm_table_engine.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/table/lsm_table_engine.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/table/table.cpp.o -c /root/miniob/src/observer/storage/table/table.cpp",
+  "file": "/root/miniob/src/observer/storage/table/table.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/table/table.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/table/table_meta.cpp.o -c /root/miniob/src/observer/storage/table/table_meta.cpp",
+  "file": "/root/miniob/src/observer/storage/table/table_meta.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/table/table_meta.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/trx/lsm_mvcc_trx.cpp.o -c /root/miniob/src/observer/storage/trx/lsm_mvcc_trx.cpp",
+  "file": "/root/miniob/src/observer/storage/trx/lsm_mvcc_trx.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/trx/lsm_mvcc_trx.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/trx/mvcc_trx.cpp.o -c /root/miniob/src/observer/storage/trx/mvcc_trx.cpp",
+  "file": "/root/miniob/src/observer/storage/trx/mvcc_trx.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/trx/mvcc_trx.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/trx/mvcc_trx_log.cpp.o -c /root/miniob/src/observer/storage/trx/mvcc_trx_log.cpp",
+  "file": "/root/miniob/src/observer/storage/trx/mvcc_trx_log.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/trx/mvcc_trx_log.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/trx/trx.cpp.o -c /root/miniob/src/observer/storage/trx/trx.cpp",
+  "file": "/root/miniob/src/observer/storage/trx/trx.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/trx/trx.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer_static.dir/storage/trx/vacuous_trx.cpp.o -c /root/miniob/src/observer/storage/trx/vacuous_trx.cpp",
+  "file": "/root/miniob/src/observer/storage/trx/vacuous_trx.cpp",
+  "output": "src/observer/CMakeFiles/observer_static.dir/storage/trx/vacuous_trx.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/observer.dir/main.cpp.o -c /root/miniob/src/observer/main.cpp",
+  "file": "/root/miniob/src/observer/main.cpp",
+  "output": "src/observer/CMakeFiles/observer.dir/main.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/obclient",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/obclient.dir/client.cpp.o -c /root/miniob/src/obclient/client.cpp",
+  "file": "/root/miniob/src/obclient/client.cpp",
+  "output": "src/obclient/CMakeFiles/obclient.dir/client.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/compaction/ob_compaction.cpp.o -c /root/miniob/src/oblsm/compaction/ob_compaction.cpp",
+  "file": "/root/miniob/src/oblsm/compaction/ob_compaction.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/compaction/ob_compaction.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/compaction/ob_compaction_picker.cpp.o -c /root/miniob/src/oblsm/compaction/ob_compaction_picker.cpp",
+  "file": "/root/miniob/src/oblsm/compaction/ob_compaction_picker.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/compaction/ob_compaction_picker.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/memtable/ob_memtable.cpp.o -c /root/miniob/src/oblsm/memtable/ob_memtable.cpp",
+  "file": "/root/miniob/src/oblsm/memtable/ob_memtable.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/memtable/ob_memtable.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/ob_lsm_impl.cpp.o -c /root/miniob/src/oblsm/ob_lsm_impl.cpp",
+  "file": "/root/miniob/src/oblsm/ob_lsm_impl.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/ob_lsm_impl.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/ob_lsm_transaction.cpp.o -c /root/miniob/src/oblsm/ob_lsm_transaction.cpp",
+  "file": "/root/miniob/src/oblsm/ob_lsm_transaction.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/ob_lsm_transaction.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/ob_manifest.cpp.o -c /root/miniob/src/oblsm/ob_manifest.cpp",
+  "file": "/root/miniob/src/oblsm/ob_manifest.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/ob_manifest.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/ob_user_iterator.cpp.o -c /root/miniob/src/oblsm/ob_user_iterator.cpp",
+  "file": "/root/miniob/src/oblsm/ob_user_iterator.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/ob_user_iterator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/table/ob_block.cpp.o -c /root/miniob/src/oblsm/table/ob_block.cpp",
+  "file": "/root/miniob/src/oblsm/table/ob_block.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/table/ob_block.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/table/ob_block_builder.cpp.o -c /root/miniob/src/oblsm/table/ob_block_builder.cpp",
+  "file": "/root/miniob/src/oblsm/table/ob_block_builder.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/table/ob_block_builder.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/table/ob_merger.cpp.o -c /root/miniob/src/oblsm/table/ob_merger.cpp",
+  "file": "/root/miniob/src/oblsm/table/ob_merger.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/table/ob_merger.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/table/ob_sstable.cpp.o -c /root/miniob/src/oblsm/table/ob_sstable.cpp",
+  "file": "/root/miniob/src/oblsm/table/ob_sstable.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/table/ob_sstable.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/table/ob_sstable_builder.cpp.o -c /root/miniob/src/oblsm/table/ob_sstable_builder.cpp",
+  "file": "/root/miniob/src/oblsm/table/ob_sstable_builder.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/table/ob_sstable_builder.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/util/ob_arena.cpp.o -c /root/miniob/src/oblsm/util/ob_arena.cpp",
+  "file": "/root/miniob/src/oblsm/util/ob_arena.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/util/ob_arena.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/util/ob_bloomfilter.cpp.o -c /root/miniob/src/oblsm/util/ob_bloomfilter.cpp",
+  "file": "/root/miniob/src/oblsm/util/ob_bloomfilter.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/util/ob_bloomfilter.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/util/ob_comparator.cpp.o -c /root/miniob/src/oblsm/util/ob_comparator.cpp",
+  "file": "/root/miniob/src/oblsm/util/ob_comparator.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/util/ob_comparator.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/util/ob_file_reader.cpp.o -c /root/miniob/src/oblsm/util/ob_file_reader.cpp",
+  "file": "/root/miniob/src/oblsm/util/ob_file_reader.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/util/ob_file_reader.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/util/ob_file_writer.cpp.o -c /root/miniob/src/oblsm/util/ob_file_writer.cpp",
+  "file": "/root/miniob/src/oblsm/util/ob_file_writer.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/util/ob_file_writer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/util/ob_lru_cache.cpp.o -c /root/miniob/src/oblsm/util/ob_lru_cache.cpp",
+  "file": "/root/miniob/src/oblsm/util/ob_lru_cache.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/util/ob_lru_cache.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm.dir/wal/ob_lsm_wal.cpp.o -c /root/miniob/src/oblsm/wal/ob_lsm_wal.cpp",
+  "file": "/root/miniob/src/oblsm/wal/ob_lsm_wal.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm.dir/wal/ob_lsm_wal.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm_cli.dir/client/cliutil/parser.cpp.o -c /root/miniob/src/oblsm/client/cliutil/parser.cpp",
+  "file": "/root/miniob/src/oblsm/client/cliutil/parser.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm_cli.dir/client/cliutil/parser.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm_cli.dir/client/ob_lsm_client.cpp.o -c /root/miniob/src/oblsm/client/ob_lsm_client.cpp",
+  "file": "/root/miniob/src/oblsm/client/ob_lsm_client.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm_cli.dir/client/ob_lsm_client.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/oblsm_bench.dir/benchmarks/ob_lsm_bench.cpp.o -c /root/miniob/src/oblsm/benchmarks/ob_lsm_bench.cpp",
+  "file": "/root/miniob/src/oblsm/benchmarks/ob_lsm_bench.cpp",
+  "output": "src/oblsm/CMakeFiles/oblsm_bench.dir/benchmarks/ob_lsm_bench.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/cas.dir/cas.cpp.o -c /root/miniob/src/cpplings/cas.cpp",
+  "file": "/root/miniob/src/cpplings/cas.cpp",
+  "output": "src/cpplings/CMakeFiles/cas.dir/cas.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/condition_variable.dir/condition_variable.cpp.o -c /root/miniob/src/cpplings/condition_variable.cpp",
+  "file": "/root/miniob/src/cpplings/condition_variable.cpp",
+  "output": "src/cpplings/CMakeFiles/condition_variable.dir/condition_variable.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/lambda.dir/lambda.cpp.o -c /root/miniob/src/cpplings/lambda.cpp",
+  "file": "/root/miniob/src/cpplings/lambda.cpp",
+  "output": "src/cpplings/CMakeFiles/lambda.dir/lambda.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/lock.dir/lock.cpp.o -c /root/miniob/src/cpplings/lock.cpp",
+  "file": "/root/miniob/src/cpplings/lock.cpp",
+  "output": "src/cpplings/CMakeFiles/lock.dir/lock.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/mutex.dir/mutex.cpp.o -c /root/miniob/src/cpplings/mutex.cpp",
+  "file": "/root/miniob/src/cpplings/mutex.cpp",
+  "output": "src/cpplings/CMakeFiles/mutex.dir/mutex.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/smart_pointer.dir/smart_pointer.cpp.o -c /root/miniob/src/cpplings/smart_pointer.cpp",
+  "file": "/root/miniob/src/cpplings/smart_pointer.cpp",
+  "output": "src/cpplings/CMakeFiles/smart_pointer.dir/smart_pointer.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/template.dir/template.cpp.o -c /root/miniob/src/cpplings/template.cpp",
+  "file": "/root/miniob/src/cpplings/template.cpp",
+  "output": "src/cpplings/CMakeFiles/template.dir/template.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/src/cpplings",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/stl.dir/stl.cpp.o -c /root/miniob/src/cpplings/stl.cpp",
+  "file": "/root/miniob/src/cpplings/stl.cpp",
+  "output": "src/cpplings/CMakeFiles/stl.dir/stl.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/tools",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -o CMakeFiles/clog_dump.dir/clog_dump.cpp.o -c /root/miniob/tools/clog_dump.cpp",
+  "file": "/root/miniob/tools/clog_dump.cpp",
+  "output": "tools/CMakeFiles/clog_dump.dir/clog_dump.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/bitmap_test.dir/bitmap_test.cpp.o -c /root/miniob/unittest/common/bitmap_test.cpp",
+  "file": "/root/miniob/unittest/common/bitmap_test.cpp",
+  "output": "unittest/common/CMakeFiles/bitmap_test.dir/bitmap_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/integer_generator_test.dir/integer_generator_test.cpp.o -c /root/miniob/unittest/common/integer_generator_test.cpp",
+  "file": "/root/miniob/unittest/common/integer_generator_test.cpp",
+  "output": "unittest/common/CMakeFiles/integer_generator_test.dir/integer_generator_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/log_test.dir/log_test.cpp.o -c /root/miniob/unittest/common/log_test.cpp",
+  "file": "/root/miniob/unittest/common/log_test.cpp",
+  "output": "unittest/common/CMakeFiles/log_test.dir/log_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/lower_bound_test.dir/lower_bound_test.cpp.o -c /root/miniob/unittest/common/lower_bound_test.cpp",
+  "file": "/root/miniob/unittest/common/lower_bound_test.cpp",
+  "output": "unittest/common/CMakeFiles/lower_bound_test.dir/lower_bound_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/md5_test.dir/md5_test.cpp.o -c /root/miniob/unittest/common/md5_test.cpp",
+  "file": "/root/miniob/unittest/common/md5_test.cpp",
+  "output": "unittest/common/CMakeFiles/md5_test.dir/md5_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/mem_pool_test.dir/mem_pool_test.cpp.o -c /root/miniob/unittest/common/mem_pool_test.cpp",
+  "file": "/root/miniob/unittest/common/mem_pool_test.cpp",
+  "output": "unittest/common/CMakeFiles/mem_pool_test.dir/mem_pool_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pidfile_test.dir/pidfile_test.cpp.o -c /root/miniob/unittest/common/pidfile_test.cpp",
+  "file": "/root/miniob/unittest/common/pidfile_test.cpp",
+  "output": "unittest/common/CMakeFiles/pidfile_test.dir/pidfile_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/serializer_test.dir/serializer_test.cpp.o -c /root/miniob/unittest/common/serializer_test.cpp",
+  "file": "/root/miniob/unittest/common/serializer_test.cpp",
+  "output": "unittest/common/CMakeFiles/serializer_test.dir/serializer_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/simple_queue_test.dir/simple_queue_test.cpp.o -c /root/miniob/unittest/common/simple_queue_test.cpp",
+  "file": "/root/miniob/unittest/common/simple_queue_test.cpp",
+  "output": "unittest/common/CMakeFiles/simple_queue_test.dir/simple_queue_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/common",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/thread_pool_executor_test.dir/thread_pool_executor_test.cpp.o -c /root/miniob/unittest/common/thread_pool_executor_test.cpp",
+  "file": "/root/miniob/unittest/common/thread_pool_executor_test.cpp",
+  "output": "unittest/common/CMakeFiles/thread_pool_executor_test.dir/thread_pool_executor_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_arena_test.dir/ob_arena_test.cpp.o -c /root/miniob/unittest/oblsm/ob_arena_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_arena_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_arena_test.dir/ob_arena_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_block_test.dir/ob_block_test.cpp.o -c /root/miniob/unittest/oblsm/ob_block_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_block_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_block_test.dir/ob_block_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_bloomfilter_test.dir/ob_bloomfilter_test.cpp.o -c /root/miniob/unittest/oblsm/ob_bloomfilter_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_bloomfilter_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_bloomfilter_test.dir/ob_bloomfilter_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_compaction_test.dir/ob_compaction_test.cpp.o -c /root/miniob/unittest/oblsm/ob_compaction_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_compaction_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_compaction_test.dir/ob_compaction_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_lru_cache_test.dir/ob_lru_cache_test.cpp.o -c /root/miniob/unittest/oblsm/ob_lru_cache_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_lru_cache_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_lru_cache_test.dir/ob_lru_cache_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_lsm_manifest_test.dir/ob_lsm_manifest_test.cpp.o -c /root/miniob/unittest/oblsm/ob_lsm_manifest_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_lsm_manifest_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_lsm_manifest_test.dir/ob_lsm_manifest_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_lsm_test.dir/ob_lsm_test.cpp.o -c /root/miniob/unittest/oblsm/ob_lsm_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_lsm_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_lsm_test.dir/ob_lsm_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_lsm_transaction_test.dir/ob_lsm_transaction_test.cpp.o -c /root/miniob/unittest/oblsm/ob_lsm_transaction_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_lsm_transaction_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_lsm_transaction_test.dir/ob_lsm_transaction_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_lsm_wal_test.dir/ob_lsm_wal_test.cpp.o -c /root/miniob/unittest/oblsm/ob_lsm_wal_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_lsm_wal_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_lsm_wal_test.dir/ob_lsm_wal_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_skiplist_test.dir/ob_skiplist_test.cpp.o -c /root/miniob/unittest/oblsm/ob_skiplist_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_skiplist_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_skiplist_test.dir/ob_skiplist_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_table_test.dir/ob_table_test.cpp.o -c /root/miniob/unittest/oblsm/ob_table_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_table_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_table_test.dir/ob_table_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/oblsm",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ob_util_test.dir/ob_util_test.cpp.o -c /root/miniob/unittest/oblsm/ob_util_test.cpp",
+  "file": "/root/miniob/unittest/oblsm/ob_util_test.cpp",
+  "output": "unittest/oblsm/CMakeFiles/ob_util_test.dir/ob_util_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/aggregate_hash_table_test.dir/aggregate_hash_table_test.cpp.o -c /root/miniob/unittest/observer/aggregate_hash_table_test.cpp",
+  "file": "/root/miniob/unittest/observer/aggregate_hash_table_test.cpp",
+  "output": "unittest/observer/CMakeFiles/aggregate_hash_table_test.dir/aggregate_hash_table_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/arithmetic_operator_test.dir/arithmetic_operator_test.cpp.o -c /root/miniob/unittest/observer/arithmetic_operator_test.cpp",
+  "file": "/root/miniob/unittest/observer/arithmetic_operator_test.cpp",
+  "output": "unittest/observer/CMakeFiles/arithmetic_operator_test.dir/arithmetic_operator_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/bp_manager_test.dir/bp_manager_test.cpp.o -c /root/miniob/unittest/observer/bp_manager_test.cpp",
+  "file": "/root/miniob/unittest/observer/bp_manager_test.cpp",
+  "output": "unittest/observer/CMakeFiles/bp_manager_test.dir/bp_manager_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/bplus_tree_log_entry_test.dir/bplus_tree_log_entry_test.cpp.o -c /root/miniob/unittest/observer/bplus_tree_log_entry_test.cpp",
+  "file": "/root/miniob/unittest/observer/bplus_tree_log_entry_test.cpp",
+  "output": "unittest/observer/CMakeFiles/bplus_tree_log_entry_test.dir/bplus_tree_log_entry_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/bplus_tree_log_test.dir/bplus_tree_log_test.cpp.o -c /root/miniob/unittest/observer/bplus_tree_log_test.cpp",
+  "file": "/root/miniob/unittest/observer/bplus_tree_log_test.cpp",
+  "output": "unittest/observer/CMakeFiles/bplus_tree_log_test.dir/bplus_tree_log_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/bplus_tree_test.dir/bplus_tree_test.cpp.o -c /root/miniob/unittest/observer/bplus_tree_test.cpp",
+  "file": "/root/miniob/unittest/observer/bplus_tree_test.cpp",
+  "output": "unittest/observer/CMakeFiles/bplus_tree_test.dir/bplus_tree_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/buffer_pool_log_test.dir/buffer_pool_log_test.cpp.o -c /root/miniob/unittest/observer/buffer_pool_log_test.cpp",
+  "file": "/root/miniob/unittest/observer/buffer_pool_log_test.cpp",
+  "output": "unittest/observer/CMakeFiles/buffer_pool_log_test.dir/buffer_pool_log_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/catalog_test.dir/catalog_test.cpp.o -c /root/miniob/unittest/observer/catalog_test.cpp",
+  "file": "/root/miniob/unittest/observer/catalog_test.cpp",
+  "output": "unittest/observer/CMakeFiles/catalog_test.dir/catalog_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/chunk_test.dir/chunk_test.cpp.o -c /root/miniob/unittest/observer/chunk_test.cpp",
+  "file": "/root/miniob/unittest/observer/chunk_test.cpp",
+  "output": "unittest/observer/CMakeFiles/chunk_test.dir/chunk_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/codec_test.dir/codec_test.cpp.o -c /root/miniob/unittest/observer/codec_test.cpp",
+  "file": "/root/miniob/unittest/observer/codec_test.cpp",
+  "output": "unittest/observer/CMakeFiles/codec_test.dir/codec_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/composite_tuple_test.dir/composite_tuple_test.cpp.o -c /root/miniob/unittest/observer/composite_tuple_test.cpp",
+  "file": "/root/miniob/unittest/observer/composite_tuple_test.cpp",
+  "output": "unittest/observer/CMakeFiles/composite_tuple_test.dir/composite_tuple_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/disk_buffer_pool_test.dir/disk_buffer_pool_test.cpp.o -c /root/miniob/unittest/observer/disk_buffer_pool_test.cpp",
+  "file": "/root/miniob/unittest/observer/disk_buffer_pool_test.cpp",
+  "output": "unittest/observer/CMakeFiles/disk_buffer_pool_test.dir/disk_buffer_pool_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/disk_log_handler_test.dir/disk_log_handler_test.cpp.o -c /root/miniob/unittest/observer/disk_log_handler_test.cpp",
+  "file": "/root/miniob/unittest/observer/disk_log_handler_test.cpp",
+  "output": "unittest/observer/CMakeFiles/disk_log_handler_test.dir/disk_log_handler_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/double_write_buffer_test.dir/double_write_buffer_test.cpp.o -c /root/miniob/unittest/observer/double_write_buffer_test.cpp",
+  "file": "/root/miniob/unittest/observer/double_write_buffer_test.cpp",
+  "output": "unittest/observer/CMakeFiles/double_write_buffer_test.dir/double_write_buffer_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/expression_test.dir/expression_test.cpp.o -c /root/miniob/unittest/observer/expression_test.cpp",
+  "file": "/root/miniob/unittest/observer/expression_test.cpp",
+  "output": "unittest/observer/CMakeFiles/expression_test.dir/expression_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/log_buffer_test.dir/log_buffer_test.cpp.o -c /root/miniob/unittest/observer/log_buffer_test.cpp",
+  "file": "/root/miniob/unittest/observer/log_buffer_test.cpp",
+  "output": "unittest/observer/CMakeFiles/log_buffer_test.dir/log_buffer_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/log_entry_test.dir/log_entry_test.cpp.o -c /root/miniob/unittest/observer/log_entry_test.cpp",
+  "file": "/root/miniob/unittest/observer/log_entry_test.cpp",
+  "output": "unittest/observer/CMakeFiles/log_entry_test.dir/log_entry_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/log_file_test.dir/log_file_test.cpp.o -c /root/miniob/unittest/observer/log_file_test.cpp",
+  "file": "/root/miniob/unittest/observer/log_file_test.cpp",
+  "output": "unittest/observer/CMakeFiles/log_file_test.dir/log_file_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/mvcc_trx_log_test.dir/mvcc_trx_log_test.cpp.o -c /root/miniob/unittest/observer/mvcc_trx_log_test.cpp",
+  "file": "/root/miniob/unittest/observer/mvcc_trx_log_test.cpp",
+  "output": "unittest/observer/CMakeFiles/mvcc_trx_log_test.dir/mvcc_trx_log_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/parser_test.dir/parser_test.cpp.o -c /root/miniob/unittest/observer/parser_test.cpp",
+  "file": "/root/miniob/unittest/observer/parser_test.cpp",
+  "output": "unittest/observer/CMakeFiles/parser_test.dir/parser_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/pax_storage_test.dir/pax_storage_test.cpp.o -c /root/miniob/unittest/observer/pax_storage_test.cpp",
+  "file": "/root/miniob/unittest/observer/pax_storage_test.cpp",
+  "output": "unittest/observer/CMakeFiles/pax_storage_test.dir/pax_storage_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/persist_test.dir/persist_test.cpp.o -c /root/miniob/unittest/observer/persist_test.cpp",
+  "file": "/root/miniob/unittest/observer/persist_test.cpp",
+  "output": "unittest/observer/CMakeFiles/persist_test.dir/persist_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/record_manager_test.dir/record_manager_test.cpp.o -c /root/miniob/unittest/observer/record_manager_test.cpp",
+  "file": "/root/miniob/unittest/observer/record_manager_test.cpp",
+  "output": "unittest/observer/CMakeFiles/record_manager_test.dir/record_manager_test.cpp.o"
+},
+{
+  "directory": "/root/miniob/build_debug/unittest/observer",
+  "command": "/usr/bin/c++ -DENABLE_ASAN -DLINUX -DREPLXX_STATIC -DUNIX -I/root/miniob/. -I/root/miniob/deps -I/root/miniob/src -I/root/miniob/src/observer -isystem /usr/include/jsoncpp  -Wall -Werror -Wno-error=sign-compare -DDEBUG -g -O0 -fno-omit-frame-pointer -fsanitize=address -fsanitize-address-use-after-scope -g -std=gnu++20 -DGTEST_HAS_PTHREAD=1 -o CMakeFiles/ring_buffer_test.dir/ring_buffer_test.cpp.o -c /root/miniob/unittest/observer/ring_buffer_test.cpp",
+  "file": "/root/miniob/unittest/observer/ring_buffer_test.cpp",
+  "output": "unittest/observer/CMakeFiles/ring_buffer_test.dir/ring_buffer_test.cpp.o"
+}
+]
